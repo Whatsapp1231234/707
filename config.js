@@ -13,18 +13,18 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['+79011033947', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //Лилит 🌻🐈
-['+79011033947', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
-['+79011033947'],
-['+79011033947'],
-['+79011033947'], 
-['+79011033947'],
-['+79011033947'],
-['+79011033947'],
-['+79011033947'],
-['+79011033947'], 
-['+79011033947'],
-['+79011033947']]
+['+79282517294', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //Miss♡✿ᴳᴵᴿᴸ 🌻🐈
+['+79282517294', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
+['+79282517294'],
+['+79282517294'],
+['+79282517294'], 
+['+79282517294'],
+['+79282517294'],
+['+79282517294'],
+['+79282517294'],
+['+79282517294'], 
+['+79282517294'],
+['+79282517294']]
 
 global.mods = [] 
 global.prems = []
@@ -97,16 +97,16 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = 'Лилит 🌻🐈'
-global.author = 'Лилит'
+global.packname = 'Miss♡✿ᴳᴵᴿᴸ 🌻🐈'
+global.author = 'Miss♡✿ᴳᴵᴿᴸ'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['+79011033947', 'Лилит 💻', 1], 
-['+79011033947', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['+79011033947', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['+79011033947', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['+79282517294', 'Miss♡✿ᴳᴵᴿᴸ 💻', 1], 
+['+79282517294', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['+79282517294', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['+79282517294', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -116,7 +116,7 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.4.0'
 global.vsJB = '4.5'
 
-global.gt = 'Лилит'
+global.gt = 'Miss♡✿ᴳᴵᴿᴸ'
 global.yt = 'https://youtube.com'
 global.yt2 = 'https://www.youtube.com'
 global.ig = 'https://www.instagram.com'
@@ -139,8 +139,8 @@ global.nnnttt5 = 'https://chat.whatsapp.com' //A.T.M.M
 global.paypal = 'https://paypal.me'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = 'Лилит 🌻🐈 : Лилит'
-global.igfg = 'Лилит'
+global.wm = 'Miss♡✿ᴳᴵᴿᴸ 🌻🐈 : Miss♡✿ᴳᴵᴿᴸ'
+global.igfg = 'Miss♡✿ᴳᴵᴿᴸ'
 global.nomorown = owner[0][0]
 
 global.imagen1 = fs.readFileSync('./media/menus/менюю.jpg')
