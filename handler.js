@@ -440,7 +440,7 @@ if (opts['autoread']) await this.readMessages([m.key])
 if (settingsREAD.autoread2) await this.readMessages([m.key])  
 if (settingsREAD.autoread2 == 'true') await this.readMessages([m.key])    
 	    
-if (db.data.chats[m.chat].reaction && m.text.match(/(ción|dad|aje|oso|izar|mente|pero|tion|age|ous|ate|and|but|ify)/gi)) {
+if (db.data.chats[m.chat].reaction && m.text.match(/(привет|как дела|лот|доброе утро|давайте играть|добиваем лот|pero|tion|age|ous|ate|and|but|ify)/gi)) {
 let emot = pickRandom(["😀"])
 if (!m.fromMe) return this.sendMessage(m.chat, { react: { text: emot, key: m.key }})
 }

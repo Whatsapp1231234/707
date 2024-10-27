@@ -51,7 +51,16 @@ throw false
 }}
 chat.antiver = isEnable 
 break
-		
+
+case 'аудио':
+if (m.isGroup) {
+if (!(isAdmin || isROwner || isOwner)) {
+global.dfail('admin', m, conn);
+throw false;
+}}
+chat.audios = isEnable;
+break;
+
 case 'антиссылка': case 'antienlace':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
